@@ -4,6 +4,9 @@ public class Pessoa {
 	
 	private String nome;
 	private String sobrenome;
+	private String Cor;
+	
+	
 	public String getNome() {
 		return nome;
 	}
