@@ -1,16 +1,23 @@
 package OperaçõesAritméticas;
 
+
+/*EXPLICAÇÃO EM GERAL, MAIS DETALHES NAS CLASS*/
 public class Operações_Entre_Numeros {
 	
 	/*Main é um método auto executável*/
 	public static void main(String[] args) {
 		
-		int nota1 = 90;
-		int nota2 = 70;
-		int nota3 = 50;
-		int nota4 = 88;
+		/*Usando o Double, o valor se transforme em números racionais*/
+		/*Caso utilizasemos o int, o valor seria demonstrado com numeros inteiros */
 		
-		System.out.println("Média das notas = " + (nota1 + nota2 + nota3 + nota4) / 4);
+		double nota1 = 90;
+		double nota2 = 70;
+		double nota3 = 50;
+		double nota4 = 88;
+		
+		double médiaFinal = (nota1 + nota2 + nota3 + nota4) / 4;
+		
+		System.out.println("Média das notas = " + médiaFinal);
 			
 	}
 
