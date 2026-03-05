@@ -2,6 +2,7 @@ package OperaçõesAritméticas;
 
 public class NumerosRacionais {
 
+	/*Utilizando o tipo Double, a gente consegue utilizar numeros racionais, apresentando o resultado exato!*/
 	public static void main(String[] args) {
 		
 		double nota1 = 80;
