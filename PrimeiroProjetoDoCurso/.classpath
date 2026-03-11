@@ -6,5 +6,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Operadores_Relacionais"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
