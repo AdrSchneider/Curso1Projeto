@@ -12,6 +12,7 @@ public class Operadores_relacionais {
 			System.out.println("As notas são iguais");
 		}else {
 			System.out.println("São notas diferentes");
+			
 		}
 		
 	}
